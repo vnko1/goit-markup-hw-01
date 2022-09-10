@@ -1,5 +1,5 @@
 .DS_Store
-prettierrc.json
+.json
 # Logs
 logs
 *.log
